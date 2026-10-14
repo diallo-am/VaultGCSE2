@@ -1,0 +1,15 @@
+TEST D'EFFET D'AVALANCHE
+=============================================
+
+Cle originale  : 2B4748C0A46C4CACF90172C380FBCE12
+Cle modifiee   : 2A4748C0A46C4CACF90172C380FBCE12
+Difference     : 1 seul bit (bit 0, octet 0)
+
+Message test   : 140 octets
+Total bits     : 1152
+Bits differents: 588/1152
+Pourcentage    : 51.04%
+Conclusion     : CONFIRME
+
+Fichier chiffre cle 1 : ensa_chiffre_cle1.bin
+Fichier chiffre cle 2 : ensa_chiffre_cle2.bin
